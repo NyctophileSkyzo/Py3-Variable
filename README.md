@@ -19,7 +19,7 @@ $ pkg update && pkg upgrade -y
 $ pkg install git
 $ pkg install python -y
 $ pkg install python-pip
-$ git clone https://github.com/NathVaskyloClearesta/Py3-Variable
+$ git clone https://github.com/Nyctophile/Py3-Variable
 $ cd Py3-Variable
 $ python Variable.py
 ```
